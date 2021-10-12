@@ -7,11 +7,9 @@ I’m new to the world of web development but have been no stranger to technolog
 
 ## Fun Facts about me 
 * I love turtles
-* this is random
-* fact
 
 ## Education 
-Currently enrolled in Coding Bootcamp through the University of Texas at Austin and studying javascript/node.js 
+Currently enrolled in Coding Bootcamp through the University of Texas at Austin and studying javascript/node.js. 
 
 ## 📫 How to reach me: 
 * Github: [@nicoledodge](https://github.com/nicoledodge)  
