@@ -23,6 +23,7 @@ Currently enrolled in Coding Bootcamp through the University of Texas at Austin 
 * Portfolio: [Nicole Dodge Portfolio](https://nicoledodge.github.io/Portfolio-Page/)
 * Website: [Nikkidodgephotography.com](https://nikkidodgephotography.com/)
 
+
 <!---
 nicoledodge/nicoledodge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
