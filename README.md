@@ -1,4 +1,4 @@
-## 👋 Howdy
+<h1 "center> 👋 Howdy </h1>
 
 ## Nicole Dodge -- @nicoledodge  
 Hey I’m Nicole! (some people call me Nikki) 
