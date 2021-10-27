@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Howdy </h1>
 
 <h2 align="center"> Nicole Dodge -- @nicoledodge </h2> 
-Hey I’m Nicole! (some people call me Nikki) 
+Hey I’m Nicole! (but most people just call me Nikki) 
   
 I’m new to the world of web development but have been no stranger to technology. Expertised in DSLR camera processes and Adobe applications, my profession prior to computers involved Wedding & Festival Photography, as well as the team photographer for a Division I football team. I spend most of my time at festivals and traveling across different national parks and different countries! Always looking for a new adventure and not afraid to ask the question "why"?
 
@@ -14,6 +14,8 @@ Currently enrolled in Coding Bootcamp through the University of Texas at Austin 
 
 ## Fun Facts about me 
 * I love turtles
+* I've traveled to more than HALF of the United States
+* Pineapple on pizza, enough said.
 
 ## 📫 How to reach me: 
 * Github: [@nicoledodge](https://github.com/nicoledodge)  
