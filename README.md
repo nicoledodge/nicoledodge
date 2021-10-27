@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Howdy </h1>
 
 <h2 align="center"> Nicole Dodge -- @nicoledodge </h2> 
-Hey I’m Nicole! (but most people just call me Nikki) 
-  
+Hey I’m Nicole! (but most people just call me Nikki)   
+   
 I’m new to the world of web development but have been no stranger to technology. Expertised in DSLR camera processes and Adobe applications, my profession prior to computers involved Wedding & Festival Photography, as well as the team photographer for a Division I football team. I spend most of my time at festivals and traveling across different national parks and different countries! Always looking for a new adventure and not afraid to ask the question "why"?
 
 <h3 align="left">Languages and Tools:</h3>
