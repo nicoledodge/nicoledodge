@@ -20,7 +20,7 @@ Currently enrolled in Coding Bootcamp through the University of Texas at Austin 
 ## 📫 How to reach me: 
 * Github: [@nicoledodge](https://github.com/nicoledodge)  
 * Instagram: [@nikkidodgephotography](https://www.instagram.com/nikkidodgephotography/)
-* Portfolio: [Nicole Dodge Portfolio](https://nicoledodge.github.io/Portfolio-Page/)
+* Portfolio: [Nicole Dodge Portfolio](https://nikki-react-portfolio.herokuapp.com/)
 * Website: [Nikkidodgephotography.com](https://nikkidodgephotography.com/)
 
 
